@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"><title>profile</title>
+        <link href="https://fonts.googleapis.com/css2?family=Workbench&display=swap" rel="stylesheet">
+        <style>
+            body {
+                background-color: #5e91fe;
+                font-family: "Workbench", monospace;
+                font-optical-sizing: auto;
+                font-weight: 400;
+                font-style: normal;
+                font-variation-settings:
+                "BLED" 0,
+                "SCAN" 0;
+            }
+            nav {
+                position: fixed;
+                display: flex;
+                align-items: center;
+                padding: 10px 30px;
+                background-color: #5e91fe;
+                width: 100%;
+                top:0;
+            }
+            nav .logo img {
+                width: 70px; 
+                height: auto; 
+                margin-right: 370px; 
+            }
+            .logo:hover{
+                transform: scale(0.95);
+                transition:0.5s;
+            }
+
+            nav ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 25px 0px;
+                display: flex;
+                justify-content: center;
+                gap: 20px;
+            }
+
+            nav li a {
+                text-decoration: none;
+                color: aliceblue;
+                font-size: 18px;
+                padding: 10px;
+            }
+
+            .menu_2:hover{color:#50d03a}
+            .menu_3:hover{color:#e7230d}
+            .menu_4:hover{color:#00b7ff}
+            .menu_5:hover{color:#fccd0e}
+            
+            .block {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: auto;
+                z-index: -1; 
+            }
+            h1 {text-align: center; margin-top: 130px;}
+
+            div{display:flex;}
+            .clothes{width: 500px; margin-left: 80px; margin-right: 60px;}
+            div div{
+                border-style: solid; border-width: 3px; border-color:black; background-color: antiquewhite;
+                margin-right: 80px; padding: 21px; height: 400px;
+                display:block;
+            }
+            div p{ font-size: 18px; line-height: 1.6;
+            }
+            
+            </style>
+    </head>
+
+    <body>
+         <nav>
+            <a href="../1.index.html" class="logo">
+                <img src="../Images/Introduce me!.svg" alt="Home" />
+            </a>
+          <ul>
+            <li><a class="menu_2" href="../2.profile.html">Lv.1 Profile</a></li>
+            <li><a class="menu_3" href="../3.characteristic.html">Lv.2 Characteristic</a></li>
+            <li><a class="menu_4" href="../4.playlist.html">Lv.3 Playlist</a></li>
+            <li><a class="menu_5" href="2-4_form.html">Lv.4 Letter</a></li>
+          </ul>
+        </nav>
+        <img src="../Images/block.png" alt="block" class="block"/>
+
+        <br> <h1>Characteristic</h1> <br><br>
+        <div>
+            <img src="../Images/clothes.jpg" class="clothes">
+            <div>
+                <h2>"하루에도 몇번 씩 옷 갈아입는 사람.."</h2> <br>
+                <p>저는 옷을 너무너무 사랑해서 패션에 관심이 많은데요! 
+                    우리 한동은 옷을 잘 입는 분들이 너무너무 많아서 볼 때마다 눈길이 가는 분도 많지만 제 옷을 보며 금방 싫증이 나서 바로 갈아입은 적도 많답니다...ㅎㅎ
+                </p>
+                <br><br><br>
+                <a href="../3.characteristic.html" class="back">back to "?" block!</a>
+            </div>
+        </div>
+
+        
+
+        
+    </body>
+</html>
