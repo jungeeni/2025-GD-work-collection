@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 544.26 250.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9cf0b;
+        filter: url(#drop-shadow-5);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #049bd0;
+        filter: url(#drop-shadow-11);
+      }
+
+      .cls-3 {
+        fill: #fccc12;
+        filter: url(#drop-shadow-7);
+      }
+
+      .cls-4 {
+        fill: #e9220b;
+        filter: url(#drop-shadow-3);
+      }
+
+      .cls-5 {
+        fill: #e7230d;
+        filter: url(#drop-shadow-9);
+      }
+
+      .cls-6 {
+        fill: #fccd0e;
+        filter: url(#drop-shadow-10);
+      }
+
+      .cls-7 {
+        fill: #4eb13d;
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-8 {
+        fill: #45af33;
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-9 {
+        fill: #eb240f;
+        filter: url(#drop-shadow-4);
+      }
+
+      .cls-10 {
+        fill: #46ad38;
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-11 {
+        fill: #009dda;
+        filter: url(#drop-shadow-6);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="473.54" y="31.29" width="70.71" height="95.45" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" x="282.98" y="109.55" width="106.72" height="140.59" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-2" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" x="138.46" y="107.42" width="158.59" height="138.76" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-3" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-4" x="415.99" y="31.06" width="69.67" height="91.7" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-4" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" x="353.26" y="31.43" width="81.67" height="87.06" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-5" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-6" x="289.78" y="22.44" width="74.15" height="94.38" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-6" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-7" x="220.86" y="29.34" width="86.72" height="95.02" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-7" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-8" x="165.62" y="20.46" width="74.38" height="103.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-8" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" x="101.84" y="22.44" width="78.18" height="105.45" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-9" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-10" x="22.62" y="24.63" width="101.44" height="104.26" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-10" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-11" x="0" y="0" width="50.67" height="128.89" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="8"/>
+      <feGaussianBlur result="blur-11" stdDeviation="0"/>
+      <feFlood flood-color="#000" flood-opacity="1"/>
+      <feComposite in2="blur-11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <polygon class="cls-8" points="541.82 44.41 486.38 33.6 475.57 69.14 478.85 114.53 539.12 116.66 536.41 93.86 505.7 97.15 504.54 85.17 528.88 87.3 529.85 69.33 505.31 69.72 509.56 55.81 536.8 65.27 541.82 44.41"/>
+      <polygon class="cls-10" points="387.26 128.55 301.7 111.86 285 166.71 290.07 236.78 383.09 240.06 378.92 204.88 331.51 209.95 329.72 191.46 367.29 194.74 368.78 167.01 330.91 167.61 337.47 146.14 379.51 160.75 387.26 128.55"/>
+      <polygon class="cls-4" points="141.09 213.87 186.14 109.61 213.6 113.47 225.61 149.94 244.06 116.05 272.81 119.91 294.69 226.31 248.78 235.75 245.78 172.68 221.75 202.28 202.45 172.68 183.57 231.89 141.09 213.87"/>
+      <polygon class="cls-9" points="482.51 37.22 446.68 33.13 417.99 53.3 417.99 87.91 439 108.9 483.2 112.55 478.49 88.09 454.44 91.96 438.01 72.34 453.34 54.96 483.2 53.82 482.51 37.22"/>
+      <polygon class="cls-1" points="387.93 36.01 358.93 33.6 355.31 92.78 371.62 108.49 411.28 108.49 425.37 93.19 432.62 49.3 401.21 44.87 402.42 85.13 380.28 85.54 387.93 36.01"/>
+      <path class="cls-11" d="M359.42,39.93l-28.51-15.35-38.93,9.87,8.77,72.38h43.32l17.82-26.59-2.47-40.3ZM336.94,74.74l-19.19,5.48v-29.06l21.94,4.93-2.74,18.64Z"/>
+      <path class="cls-3" d="M284.86,36.61l-39.41-5.14-17.63,21.54-4.9,26.19,10.04,24.73,33.29,10.28,31.82-15.67,7.34-33.78-20.56-28.15ZM275.81,80.19l-14.69,6.61-12.24-13.95,9.79-14.44,17.14,4.41v17.38Z"/>
+      <path class="cls-7" d="M216.29,76.97l12.91-8.02,4.25-29.69-25.48-16.72-40.19,5.46,7.35,85.74h20.79l.39-30.45,14.27,28.61,26.14-12.34-20.42-22.58ZM208.78,65.53l-14.21.68v-24.4l16.01,6.31-1.8,17.4Z"/>
+      <polygon class="cls-5" points="108.31 25.5 104.23 45.01 132.81 49.09 132.81 117.6 157.94 114.22 156.55 48.76 170.02 47.27 177.27 24.48 108.31 25.5"/>
+      <polygon class="cls-6" points="53.67 110.48 25.24 97.67 56.07 26.8 74.89 29.2 94.68 86.33 95.57 37.51 115.73 32.81 121.91 118.89 78.29 118.89 67.28 69.24 53.67 110.48"/>
+      <polygon class="cls-2" points="6.71 2.56 48.41 13.37 31.42 118.89 2.08 118.89 6.71 2.56"/>
+    </g>
+  </g>
+</svg>
